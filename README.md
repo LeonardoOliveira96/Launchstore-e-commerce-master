@@ -1,7 +1,9 @@
 <p align="center">
     <img src="/assets/logo.png" alt="Logo">
 </p>
-![Demo1](https://github.com/leotilt/Launchstore-e-commerce-work-in-progress-/blob/main/assets/demo1.PNG)
+<p align="center">
+    <img src="assets/demo1.PNG" alt="demo">
+</p>
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
