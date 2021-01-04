@@ -16,7 +16,7 @@ O PROJETO ESTA EM DESENVOLVIMENTO utilizando as seguintes tecnologias
 
 Outras bibliotecas usadas no desenvolvimento do projeto.
 
-<blockquote>bcryptjs, faker, method-override, browser-sync, npm-run-alll</blockquote>
+<blockquote>method-override, browser-sync, npm-run-alll</blockquote>
 
 
 Desenvolvido por [Leonardo Oliveira](https://www.linkedin.com/in/leonardooliveiradias1/)
